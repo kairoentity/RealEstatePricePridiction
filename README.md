@@ -22,33 +22,14 @@ This project involves building and evaluating different machine learning models 
 Dataset
 
 The dataset used in this project includes the following features:
-House age
-Distance to the nearest MRT station
-Number of convenience stores
-Latitude
-Longitude
-House price of unit area (target variable)
+- House age
+- Distance to the nearest MRT station
+- Number of convenience stores
+- Latitude
+- Longitude
+- House price of unit area (target variable)
 
 The data is stored in a CSV file named Real_Estate.csv.
-
-
-Installation
-
-To get started, clone this repository and install the necessary dependencies.
-
- https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
-
-
-Make sure you have Python 3.x installed along with the following libraries:
-
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
-joblib
 
 
 Usage
@@ -84,6 +65,6 @@ The evaluation metrics used in this project include:
 The results of the evaluation are displayed in a DataFrame for easy comparison.
 
 
-Results
+Results:
 
 The best model is saved as a .pkl file and can be used for future predictions.
