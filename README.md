@@ -5,13 +5,13 @@ This project aims to predict house prices per unit area based on various feature
 
 Table of Contents
 
-Project Overview
-Dataset
-Installation
-Usage
-Model Training
-Evaluation
-Results
+- Project Overview
+- Dataset
+- Installation
+- Usage
+- Model Training
+- Evaluation
+- Results
 
 
 Project Overview
